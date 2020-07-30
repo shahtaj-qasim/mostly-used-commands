@@ -23,7 +23,7 @@ docker images -a
 
 docker rmi e6c //to remove an image
 
-docker build -t beverage . //to run Dockerfile
+docker build -t beverage . //to build Dockerfile
 
 ### Kathara
 
