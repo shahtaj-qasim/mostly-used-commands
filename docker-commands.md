@@ -25,6 +25,10 @@ docker rmi e6c //to remove an image
 
 docker build -t beverage . //to build Dockerfile
 
+docker rmi e6ca4006334d //to remove an image
+
+docker network rm 
+
 ### Kathara
 
 kathara connect balin
