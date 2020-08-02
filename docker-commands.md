@@ -29,6 +29,13 @@ docker rmi e6ca4006334d //to remove an image
 
 docker network rm 
 
+Volumes:
+docker volume create databottle
+
+docker voume ls
+
+docker volume inspect databottle
+
 ### Kathara
 
 kathara connect balin
