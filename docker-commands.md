@@ -36,6 +36,10 @@ docker voume ls
 
 docker volume inspect databottle
 
+docker volume rm volume-name-here
+
+docker volume prune
+
 ### Kathara
 
 kathara connect balin
