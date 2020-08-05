@@ -9,6 +9,8 @@ docker pull unibaktr/alpine:frr
 
 docker container ls
 
+docker logs container-name
+
 docker stop 88e   //stop a container
 
 docker container ls -a
